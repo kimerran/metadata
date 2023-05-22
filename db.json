@@ -1,0 +1,10 @@
+{
+    "nfts": [
+        {
+            "id": 1,
+            "name": "My NFT",
+            "description": "Hello Solidity",
+            "image": "https://l2beat.com/icons/polygonzkevm.png"
+        }
+    ]
+}
